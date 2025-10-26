@@ -13,6 +13,8 @@ Source5:        https://github.com/EliverLara/Nordic/releases/download/v%{versio
 Source6:        https://github.com/EliverLara/Nordic/releases/download/v%{version}/Nordic-bluish-accent-standard-buttons.tar.xz
 BuildArch:      noarch
 
+%description 
+Nordic themes.
 #--- Subpackages ---
 
 %package nordic-theme
