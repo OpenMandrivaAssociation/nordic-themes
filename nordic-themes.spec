@@ -91,7 +91,7 @@ cp -a Nordic-Polar-standard-buttons %{buildroot}/usr/share/themes/Nordic-Polar-s
 cp -a Nordic-darker %{buildroot}/usr/share/themes/Nordic-darker
 cp -a Nordic-darker-standard-buttons %{buildroot}/usr/share/themes/Nordic-darker-standard-buttons
 cp -a Nordic-bluish-accent %{buildroot}/usr/share/themes/Nordic-bluish-accent
-cp -a nordic-bluish-accent-standard-buttons %{buildroot}/usr/share/themes/nordic-bluish-accent-standard-buttons
+cp -a Nordic-bluish-accent-standard-buttons %{buildroot}/usr/share/themes/Nordic-bluish-accent-standard-buttons
 
 
 #--- File lists ---
@@ -115,5 +115,5 @@ cp -a nordic-bluish-accent-standard-buttons %{buildroot}/usr/share/themes/nordic
 /usr/share/themes/Nordic-bluish-accent
 
 %files nordic-bluish-accent-standard-buttons-theme
-/usr/share/themes/nordic-bluish-accent-standard-buttons
+/usr/share/themes/Nordic-bluish-accent-standard-buttons
 
